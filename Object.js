@@ -3,4 +3,4 @@ Object.print = function(o) {
 }
 
 var o = new Object();
-Object.print(o)
+Object.print(o);
